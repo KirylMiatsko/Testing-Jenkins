@@ -1,5 +1,5 @@
 public class Principale {
-    public static String main(String[] args) {
-        return "Ciao";
+    public static void main(String[] args) {
+        System.out.println("Ciao");
     }
 }
